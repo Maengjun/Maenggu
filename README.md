@@ -50,5 +50,8 @@
 
 
 #### 모델을 활용하여 분석(RandomForestClassifier)
+<img width="473" alt="2022-07-08" src="https://user-images.githubusercontent.com/98293871/177911742-c71e50fe-08f3-40fd-b44e-b8189c77b3b7.png">
+
+<img width="382" alt="2022-07-08 (1)" src="https://user-images.githubusercontent.com/98293871/177914067-94192915-0c23-468b-80fc-8f1641bb6e08.png">
 
 
