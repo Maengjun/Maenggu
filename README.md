@@ -33,6 +33,22 @@
 
 
 
+#### EDA로 상관관계확인
+![output](https://user-images.githubusercontent.com/98293871/177899970-ce285c47-b69b-4ae8-bae3-d216a63d80bf.png)
 
+
+##처음 가설을 세울 때 풍속,강수량이 미세먼지에 영향을 줄 것이라 생각하여 가설을 세웠지만,
+해당 pairplot을 보면 큰 영향을 끼치지 못한다는걸 깨달았음.
+
+
+
+#### 모델을 활용하여 분석(DecisionTreeClassfier,tree)
+![tree1](https://user-images.githubusercontent.com/98293871/177900387-1cec4102-c3b5-4d65-8780-1a670101737b.png)
+
+![tree2](https://user-images.githubusercontent.com/98293871/177900393-7f3cfc5c-4906-4f0d-9596-6da10fdc2715.png)
+
+
+
+#### 모델을 활용하여 분석(RandomForestClassifier)
 
 
